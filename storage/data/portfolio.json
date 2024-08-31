@@ -1,0 +1,117 @@
+{
+  "personal_info": {
+    "name": "Deloar Hossain",
+    "title": "Full Stack Developer",
+    "location": "San Francisco, CA",
+    "bio": "Passionate developer with 5+ years of experience in web development, specializing in building scalable web applications.",
+    "profile_image": "https://scontent.fdac31-2.fna.fbcdn.net/v/t39.30808-6/454317114_1541744433118710_5664831069794159645_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Unxox9zGgZMQ7kNvgHC4TE7&_nc_ht=scontent.fdac31-2.fna&oh=00_AYBsPDN32oLAZ2rVz3p5X9p2N-nmTnsAGyivp83eQBmmSw&oe=66D858D6"
+  },
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "list": ["JavaScript", "Python", "PHP", "Java", "C++"]
+    },
+    {
+      "category": "Frameworks",
+      "list": ["React", "Angular", "Django", "Node.js", "Laravel"]
+    },
+    {
+      "category": "Tools & Technologies",
+      "list": ["Git", "Docker", "AWS", "Jenkins", "Webpack"]
+    },
+    {
+      "category": "Databases",
+      "list": ["MySQL", "PostgreSQL", "MongoDB", "SQLite"]
+    }
+  ],
+  "experiences": [
+    {
+      "id": 1,
+      "company": "Tech Solutions Inc.",
+      "role": "Senior Full Stack Developer",
+      "start_date": "January 2022",
+      "end_date": "Present",
+      "description": "Leading a team of developers to build scalable web applications for clients in various industries.",
+      "location": "San Francisco, CA",
+      "projects": [
+    {
+      "id": 1,
+      "title": "E-commerce Website",
+      "description": "Developed a full-featured e-commerce website using React and Django, with integrated payment gateway and real-time order tracking.",
+      "technologies": ["React", "Django", "Stripe API"],
+      "link": "https://github.com/deloar77/ecommerce",
+      "image": "path/to/project-image-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Portfolio Website",
+      "description": "Designed and developed a personal portfolio website to showcase my projects and skills.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "link": "https://github.com/deloar77/portfolio",
+      "image": "path/to/project-image-2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "vaccine App",
+      "description": "Created a task management app with user authentication, task scheduling, and notifications.",
+      "technologies": ["Angular", "Node.js", "MongoDB"],
+      "link": "https://github.com/deloar77/vaccine",
+      "image": "path/to/project-image-3.jpg"
+    }
+  ]
+      
+    },
+    {
+      "id": 2,
+      "company": "WebWorks Studio",
+      "role": "Full Stack Developer",
+      "start_date": "June 2018",
+      "end_date": "December 2021",
+      "description": "Worked on various client projects, building responsive websites and web applications.",
+      "location": "San Francisco, CA",
+       "projects": [
+    {
+      "id": 1,
+      "title": "Pont of sale website",
+      "description": "Developed a full-featured point of sale website using laravel with integrated payment gateway and real-time order tracking.",
+      "technologies": ["React", "Django", "Stripe API"],
+      "link": "https://github.com/deloar77/pointofsale",
+      "image": "path/to/project-image-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "barta",
+      "description": "Designed and developed a personal barta app to learn the architecture of facebook app.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "link": "https://github.com/deloar77/barta",
+      "image": "path/to/project-image-2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "banking app",
+      "description": "Created a banking app with user authentication,money deposit ,withdrawal and transfer facilities.",
+      "technologies": ["Angular", "Node.js", "MongoDB"],
+      "link": "https://github.com/deloar77/bankingapp",
+      "image": "path/to/project-image-3.jpg"
+    }
+  ]
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "institution": "University of California, Berkeley",
+      "degree": "Bachelor of Science in Computer Science",
+      "start_date": "September 2014",
+      "end_date": "May 2018",
+      "location": "Berkeley, CA"
+    }
+  ],
+  "contact_info": {
+    "email": "johndoe@example.com",
+    "phone": "+1-234-567-890",
+    "linkedin": "https://www.linkedin.com/in/johndoe",
+    "github": "https://github.com/johndoe",
+    "twitter": "https://twitter.com/johndoe"
+  }
+}
